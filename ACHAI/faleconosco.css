@@ -1,0 +1,357 @@
+.fale-conosco-BLUE {
+    background-color: #4d759a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.fale-conosco-BLUE .div {
+    background-color: #4d759a;
+    width: 1292px;
+    height: 928px;
+    position: relative;
+}
+
+.fale-conosco-BLUE .overlap {
+    position: absolute;
+    width: 1292px;
+    height: 82px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/rectangle-9.svg);
+    background-size: 100% 100%;
+}
+
+.fale-conosco-BLUE .logo {
+    position: absolute;
+    width: 68px;
+    height: 50px;
+    top: 11px;
+    left: 125px;
+}
+
+.fale-conosco-BLUE .overlap-group {
+    position: absolute;
+    width: 586px;
+    height: 39px;
+    top: 18px;
+    left: 271px;
+    background-color: #d9d9d9;
+    border-radius: 20.19px;
+    border: 1px solid;
+    border-color: #4d759a;
+}
+
+.fale-conosco-BLUE .buscar-local {
+    position: absolute;
+    width: 190px;
+    top: 9px;
+    left: 4px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #838383;
+    font-size: 16.2px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.fale-conosco-BLUE .material-symbols {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 2px;
+    left: 529px;
+}
+
+.fale-conosco-BLUE .cadastre-se {
+    position: absolute;
+    width: 116px;
+    top: 24px;
+    left: 1145px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #b7d3ed;
+    font-size: 15.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .perfil {
+    position: absolute;
+    width: 91px;
+    top: 24px;
+    left: 1049px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #b7d3ed;
+    font-size: 15.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .quem-somos {
+    position: absolute;
+    width: 135px;
+    top: 24px;
+    left: 912px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #b7d3ed;
+    font-size: 15.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .div-wrapper {
+    position: absolute;
+    width: 240px;
+    height: 64px;
+    top: 835px;
+    left: 526px;
+    background-color: #4d759a;
+    border-radius: 6.52px;
+}
+
+.fale-conosco-BLUE .text-wrapper {
+    position: absolute;
+    width: 150px;
+    top: 8px;
+    left: 58px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 32.3px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .telefone-xx-xxxxxx-wrapper {
+    position: absolute;
+    width: 550px;
+    height: 49px;
+    top: 360px;
+    left: 358px;
+    background-color: #b7d3ed;
+    border-radius: 5.05px;
+}
+
+.fale-conosco-BLUE .telefone-xx-xxxxxx {
+    position: absolute;
+    width: 266px;
+    top: 9px;
+    left: 16px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #4d759a;
+    font-size: 15.1px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .e-mail-wrapper {
+    position: absolute;
+    width: 550px;
+    height: 49px;
+    top: 304px;
+    left: 358px;
+    background-color: #b7d3ed;
+    border-radius: 5.05px;
+}
+
+.fale-conosco-BLUE .e-mail {
+    position: absolute;
+    width: 266px;
+    top: 13px;
+    left: 19px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #4d759a;
+    font-size: 15.1px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .nome-completo-wrapper {
+    position: absolute;
+    width: 550px;
+    height: 49px;
+    top: 247px;
+    left: 358px;
+    background-color: #b7d3ed;
+    border-radius: 5.05px;
+}
+
+.fale-conosco-BLUE .nome-completo {
+    position: absolute;
+    width: 266px;
+    top: 16px;
+    left: 19px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #4d759a;
+    font-size: 15.1px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .overlap-2 {
+    position: absolute;
+    width: 498px;
+    height: 128px;
+    top: 89px;
+    left: 384px;
+}
+
+.fale-conosco-BLUE .text-wrapper-2 {
+    position: absolute;
+    width: 498px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #b7d3ed;
+    font-size: 46px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .text-wrapper-3 {
+    position: absolute;
+    width: 325px;
+    top: 54px;
+    left: 97px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #b7d3ed;
+    font-size: 34.8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.fale-conosco-BLUE .s-o-paulo-capital-e {
+    position: absolute;
+    width: 469px;
+    top: 97px;
+    left: 14px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #b7d3ed;
+    font-size: 18.5px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .mdi-phone-settings {
+    position: absolute;
+    width: 43px;
+    height: 39px;
+    top: 59px;
+    left: 77px;
+}
+
+.fale-conosco-BLUE .escreva-sua-mensagem-wrapper {
+    position: absolute;
+    width: 850px;
+    height: 371px;
+    top: 428px;
+    left: 221px;
+    background-color: #b7d3ed;
+    border-radius: 7.98px;
+}
+
+.fale-conosco-BLUE .escreva-sua-mensagem {
+    position: absolute;
+    width: 318px;
+    top: 29px;
+    left: 30px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #4d759a;
+    font-size: 16.4px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fale-conosco-BLUE .overlap-3 {
+    position: absolute;
+    width: 109px;
+    height: 846px;
+    top: 82px;
+    left: 0;
+    background-color: #17365d;
+}
+
+.fale-conosco-BLUE .ep-map-location {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    top: 500px;
+    left: 34px;
+}
+
+.fale-conosco-BLUE .ic-round-star {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 271px;
+    left: 29px;
+}
+
+.fale-conosco-BLUE .img {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 382px;
+    left: 32px;
+}
+
+.fale-conosco-BLUE .material-symbols-2 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 43px;
+    left: 27px;
+}
+
+.fale-conosco-BLUE .mdi-phone-settings-2 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 618px;
+    left: 35px;
+}
+
+.fale-conosco-BLUE .material-symbols-3 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 142px;
+    left: 28px;
+}
+
+.fale-conosco-BLUE .text-wrapper-4 {
+    position: absolute;
+    top: 757px;
+    left: 39px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}

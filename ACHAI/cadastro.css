@@ -1,0 +1,185 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    background-color: #0a0845;
+    font-family: "Arial", sans-serif; /* Altere a fonte conforme necessário */
+}
+
+/* Estilos para o contêiner principal */
+.register {
+    background-color: #0a0845;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    width: 100%;
+    max-width: 100%;
+    padding-top: 20px; 
+}
+
+/* Estilos para a forma de registro */
+.register .overlap {
+    position: relative;
+    width: 1398px;
+    height: 741px;
+}
+
+.register .ellipse {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 41px;
+    left: 125px;
+    background-color: #d9d9d9;
+    border-radius: 250px;
+}
+
+.register .div {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 21px;
+    left: 766px;
+    border-radius: 250px;
+    background-blend-mode: color-dodge;
+    background: linear-gradient(
+        180deg,
+        rgb(27.03, 135.53, 196.56) 0%,
+        rgba(89.96, 98.12, 142.3, 0.72) 44.79%,
+        rgba(160.01, 56.47, 81.9, 0.42) 58.33%,
+        rgba(255, 0, 0, 0) 100%
+    );
+}
+
+.register .ellipse-2 {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 41px;
+    left: 470px;
+    border-radius: 250px;
+    background-blend-mode: color-dodge;
+    background: radial-gradient(
+        50% 50% at 50% 50%,
+        rgb(255, 255, 255) 0%,
+        rgba(200.69, 203.69, 219.94, 0.72) 44.79%,
+        rgba(251.81, 222.43, 229.65, 0.42) 58.33%,
+        rgba(255, 223.12, 223.12, 0) 100%
+    );
+}
+
+.register .rectangle {
+    position: absolute;
+    width: 1398px;
+    height: 741px;
+    top: 0;
+    left: 0;
+}
+
+.register .text-wrapper {
+    position: absolute;
+    width: 484px;
+    top: 75px;
+    left: 716px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #fffafa;
+    font-size: 32px;
+    letter-spacing: 8px;
+    line-height: normal;
+}
+
+.register .text-wrapper-3 {
+    position: absolute;
+    width: 428px;
+    top: 200px;
+    left: 148px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #260979;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 5.4px;
+    line-height: normal;
+}
+
+.register .LOGOACHAI {
+    position: absolute;
+    width: 165px;
+    height: 130px;
+    top: 10px;
+    left: -20px;
+    object-fit: cover;
+}
+
+.register .ellipse-3 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 235px;
+    left: 547px;
+    background-color: #d9d9d9;
+    border-radius: 35px;
+}
+
+.register .line {
+    position: absolute;
+    width: 180px;
+    height: 2px;
+    top: 402px;
+    left: 218px;
+}
+
+.register .REGISTER {
+    position: absolute;
+    width: 434px;
+    height: 161px;
+    top: 185px;
+    left: 720px;
+}
+
+.register .input-container {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.register .input-field {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #d9d9d9;
+    border-radius: 30px;
+}
+
+.register .input-field:focus {
+    outline: none;
+    border-color: #5548e8;
+}
+
+.register .icon-key {
+    width: 29px;
+    height: 29px;
+    position: absolute;
+    top: 18px;
+    left: 470px;
+}
+
+/* Estilos para o botão de registro */
+.register-button {
+    background-color: #5548e8;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.register-button:hover {
+    background-color: #260979;
+}

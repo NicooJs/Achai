@@ -1,0 +1,455 @@
+.tela-inicial-BLUE {
+    background-color: #4d759a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .tela-inicial-BLUE .div {
+    background-color: #4d759a;
+    overflow: hidden;
+    width: 1278px;
+    height: 928px;
+    position: relative;
+  }
+  
+  .tela-inicial-BLUE .overlap {
+    position: absolute;
+    width: 558px;
+    height: 250px;
+    top: 415px;
+    left: 678px;
+  }
+  
+  .tela-inicial-BLUE .museu-picture {
+    position: absolute;
+    width: 272px;
+    height: 245px;
+    top: 5px;
+    left: 0;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+  }
+  
+  .tela-inicial-BLUE .teather-picture {
+    position: absolute;
+    width: 272px;
+    height: 249px;
+    top: 0;
+    left: 286px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper {
+    position: absolute;
+    width: 268px;
+    top: 99px;
+    left: 26px;
+    font-family: "Inter-SemiBold Italic", Helvetica;
+    font-weight: 600;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 1.2px;
+    line-height: 44.9px;
+    white-space: nowrap;
+  }
+  
+  .tela-inicial-BLUE .PASSEIOS-CULTURAIS {
+    position: absolute;
+    width: 253px;
+    top: 88px;
+    left: 296px;
+    mix-blend-mode: color-dodge;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 42.9px;
+    letter-spacing: 1.07px;
+    line-height: 40.1px;
+  }
+  
+  .tela-inicial-BLUE .span {
+    font-weight: 900;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-2 {
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .tela-inicial-BLUE .overlap-group {
+    position: absolute;
+    width: 1278px;
+    height: 82px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/rectangle-9.svg);
+    background-size: 100% 100%;
+  }
+  
+  .tela-inicial-BLUE .logo {
+    position: absolute;
+    width: 76px;
+    height: 56px;
+    top: 11px;
+    left: 124px;
+  }
+  
+  .tela-inicial-BLUE .quem-somos {
+    position: absolute;
+    width: 134px;
+    top: 24px;
+    left: 903px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tela-inicial-BLUE .perfil {
+    position: absolute;
+    width: 90px;
+    top: 24px;
+    left: 1039px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tela-inicial-BLUE .cadastre-se {
+    position: absolute;
+    width: 115px;
+    top: 24px;
+    left: 1134px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tela-inicial-BLUE .overlap-2 {
+    position: absolute;
+    width: 585px;
+    height: 39px;
+    top: 17px;
+    left: 273px;
+  }
+  
+  .tela-inicial-BLUE .rectangle {
+    width: 580px;
+    height: 39px;
+    left: 5px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #4d759a;
+    position: absolute;
+    top: 0;
+  }
+  
+  .tela-inicial-BLUE .buscar-local {
+    position: absolute;
+    width: 188px;
+    top: 11px;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #838383;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tela-inicial-BLUE .material-symbols {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 1px;
+    left: 534px;
+  }
+  
+  .tela-inicial-BLUE .AS-MELHORES-FESTAS-e-wrapper {
+    position: absolute;
+    width: 521px;
+    height: 245px;
+    top: 420px;
+    left: 137px;
+    background-image: url(./img/imghome/festas.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .tela-inicial-BLUE .AS-MELHORES-FESTAS-e {
+    position: absolute;
+    width: 510px;
+    top: 50px;
+    left: 11px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 28.1px;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-3 {
+    font-family: "Inter-Italic", Helvetica;
+    font-style: italic;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-4 {
+    font-family: "Inter-Italic", Helvetica;
+    font-style: italic;
+    font-size: 40px;
+    line-height: 37.4px;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-5 {
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 51.4px;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-6 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    font-size: 39px;
+    line-height: 36.5px;
+  }
+  
+  .tela-inicial-BLUE .os-melhores-lugares-wrapper {
+    position: absolute;
+    width: 1171px;
+    height: 164px;
+    top: 176px;
+    left: 109px;
+    background-color: #d3e4f4;
+  }
+  
+  .tela-inicial-BLUE .os-melhores-lugares {
+    position: absolute;
+    width: 813px;
+    height: 156px;
+    top: 4px;
+    left: 141px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 400;
+    color: #4d759a;
+    font-size: 55.2px;
+    text-align: center;
+    line-height: 55.2px;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-7 {
+    font-weight: 200;
+    letter-spacing: 0;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-8 {
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    letter-spacing: -0.28px;
+    line-height: 78.4px;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-9 {
+    font-weight: 200;
+    letter-spacing: -0.28px;
+    line-height: 78.4px;
+  }
+  
+  .tela-inicial-BLUE .overlap-3 {
+    position: absolute;
+    width: 770px;
+    height: 116px;
+    top: 738px;
+    left: 137px;
+  }
+  
+  .tela-inicial-BLUE .rectangle-2 {
+    width: 374px;
+    height: 116px;
+    left: 396px;
+    background-color: #d3e4f4;
+    border-radius: 7.23px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .tela-inicial-BLUE .rectangle-3 {
+    width: 374px;
+    height: 116px;
+    left: 0;
+    background-color: #d3e4f4;
+    border-radius: 7.23px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .tela-inicial-BLUE .lugares-que-combinam {
+    position: absolute;
+    width: 257px;
+    height: 43px;
+    top: 34px;
+    left: 502px;
+    mix-blend-mode: darken;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #4d759a;
+    font-size: 18.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tela-inicial-BLUE .encontre-o-lugar {
+    position: absolute;
+    width: 272px;
+    height: 30px;
+    top: 42px;
+    left: 131px;
+    mix-blend-mode: darken;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #4d759a;
+    font-size: 18.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tela-inicial-BLUE .vector {
+    position: absolute;
+    width: 74px;
+    height: 65px;
+    top: 22px;
+    left: 35px;
+  }
+  
+  .tela-inicial-BLUE .ep-map-location {
+    position: absolute;
+    width: 74px;
+    height: 65px;
+    top: 22px;
+    left: 414px;
+  }
+  
+  .tela-inicial-BLUE .overlap-group-2 {
+    position: absolute;
+    width: 338px;
+    height: 116px;
+    top: 738px;
+    left: 928px;
+    background-color: #d3e4f4;
+    border-radius: 7.23px;
+  }
+  
+  .tela-inicial-BLUE .ache-quando-e-onde {
+    position: absolute;
+    width: 207px;
+    height: 65px;
+    top: 22px;
+    left: 113px;
+    mix-blend-mode: darken;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #4d759a;
+    font-size: 18.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tela-inicial-BLUE .hand-with {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 22px;
+    left: 35px;
+    object-fit: cover;
+  }
+  
+  .tela-inicial-BLUE .overlap-4 {
+    position: absolute;
+    width: 109px;
+    height: 846px;
+    top: 82px;
+    left: 0;
+    background-color: #17365d;
+  }
+  
+  .tela-inicial-BLUE .img {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    top: 500px;
+    left: 34px;
+  }
+  
+  .tela-inicial-BLUE .ic-round-star {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 271px;
+    left: 29px;
+  }
+  
+  .tela-inicial-BLUE .material-symbols-2 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 382px;
+    left: 32px;
+  }
+  
+  .tela-inicial-BLUE .material-symbols-3 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 43px;
+    left: 27px;
+  }
+  
+  .tela-inicial-BLUE .mdi-phone-settings {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 618px;
+    left: 35px;
+  }
+  
+  .tela-inicial-BLUE .material-symbols-4 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 142px;
+    left: 28px;
+  }
+  
+  .tela-inicial-BLUE .text-wrapper-10 {
+    position: absolute;
+    top: 757px;
+    left: 39px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

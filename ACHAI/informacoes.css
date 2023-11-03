@@ -1,0 +1,499 @@
+.tela-de-informao {
+    background-color: #4d759a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.tela-de-informao .overlap-wrapper {
+    background-color: #4d759a;
+    width: 1280px;
+    height: 928px;
+}
+
+.tela-de-informao .overlap {
+    position: relative;
+    height: 928px;
+}
+
+.tela-de-informao .overlap-group {
+    position: absolute;
+    width: 1280px;
+    height: 928px;
+    top: 0;
+    left: 0;
+}
+
+.tela-de-informao .rectangle {
+    position: absolute;
+    width: 1280px;
+    height: 83px;
+    top: 0;
+    left: 0;
+    mix-blend-mode: multiply;
+}
+
+.tela-de-informao .logo {
+    position: absolute;
+    width: 68px;
+    height: 50px;
+    top: 11px;
+    left: 125px;
+}
+
+.tela-de-informao .div {
+    position: absolute;
+    width: 580px;
+    height: 39px;
+    top: 18px;
+    left: 281px;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #d3e4f4;
+}
+
+.tela-de-informao .material-symbols {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 18px;
+    left: 805px;
+}
+
+.tela-de-informao .cadastre-se {
+    position: absolute;
+    width: 115px;
+    top: 24px;
+    left: 1134px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .perfil {
+    position: absolute;
+    width: 90px;
+    top: 24px;
+    left: 1039px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .quem-somos {
+    position: absolute;
+    width: 134px;
+    top: 24px;
+    left: 903px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .buscar-local {
+    position: absolute;
+    width: 188px;
+    top: 28px;
+    left: 273px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #838383;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.tela-de-informao .rectangle-2 {
+    position: absolute;
+    width: 109px;
+    height: 846px;
+    top: 82px;
+    left: 0;
+    background-color: #17365d;
+}
+
+.tela-de-informao .ep-map-location {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    top: 582px;
+    left: 34px;
+}
+
+.tela-de-informao .ic-round-star {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 353px;
+    left: 29px;
+}
+
+.tela-de-informao .img {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 464px;
+    left: 32px;
+}
+
+.tela-de-informao .material-symbols-2 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 125px;
+    left: 27px;
+}
+
+.tela-de-informao .mdi-phone-settings {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 700px;
+    left: 35px;
+}
+
+.tela-de-informao .material-symbols-3 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 224px;
+    left: 28px;
+}
+
+.tela-de-informao .text-wrapper {
+    position: absolute;
+    top: 839px;
+    left: 39px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.tela-de-informao .overlap-group-2 {
+    position: absolute;
+    width: 540px;
+    height: 359px;
+    top: 142px;
+    left: 712px;
+}
+
+.tela-de-informao .rectangle-3 {
+    position: absolute;
+    width: 540px;
+    height: 193px;
+    top: 158px;
+    left: 0;
+    background-color: #b7d3ed;
+    border-radius: 8px;
+}
+
+.tela-de-informao .morumbi-park {
+    position: absolute;
+    width: 444px;
+    height: 117px;
+    top: 0;
+    left: 57px;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    color: #d3e4f4;
+    font-size: 49.4px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .av-major-sylvio-de {
+    position: absolute;
+    width: 360px;
+    height: 84px;
+    top: 73px;
+    left: 83px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #b7d3edab;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .o-parque-conta-com {
+    position: absolute;
+    width: 520px;
+    height: 207px;
+    top: 152px;
+    left: 3px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #4d759a;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .vector {
+    position: absolute;
+    width: 56px;
+    height: 74px;
+    top: 37px;
+    left: 14px;
+}
+
+.tela-de-informao .hor-rio-de {
+    position: absolute;
+    width: 478px;
+    height: 136px;
+    top: 633px;
+    left: 743px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #d3e4f4;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .text-wrapper-2 {
+    position: absolute;
+    width: 259px;
+    height: 22px;
+    top: 594px;
+    left: 860px;
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    color: #d3e4f4;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.tela-de-informao .overlap-2 {
+    position: absolute;
+    width: 261px;
+    height: 163px;
+    top: 520px;
+    left: 141px;
+}
+
+.tela-de-informao .rectangle-4 {
+    position: absolute;
+    width: 156px;
+    height: 16px;
+    top: 55px;
+    left: 104px;
+    background-color: #d3e4f487;
+}
+
+.tela-de-informao .avalia-es {
+    position: absolute;
+    width: 130px;
+    height: 19px;
+    top: 0;
+    left: 12px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #d3e4f4;
+    font-size: 18.4px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.tela-de-informao .text-wrapper-3 {
+    position: absolute;
+    width: 107px;
+    height: 92px;
+    top: 5px;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #d3e4f4;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .element-mil-avalia-es {
+    position: absolute;
+    width: 153px;
+    height: 18px;
+    top: 54px;
+    left: 108px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.tela-de-informao .group {
+    position: absolute;
+    width: 256px;
+    height: 76px;
+    top: 87px;
+    left: 5px;
+}
+
+.tela-de-informao .overlap-3 {
+    position: absolute;
+    width: 562px;
+    height: 137px;
+    top: 711px;
+    left: 129px;
+    background-color: #b7d3ed;
+    border-radius: 8px;
+}
+
+.tela-de-informao .ellipse {
+    position: absolute;
+    width: 72px;
+    height: 68px;
+    top: 35px;
+    left: 21px;
+}
+
+.tela-de-informao .evelyn-coelho {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    top: 26px;
+    left: 109px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #4d759a;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .amei-o-lugar {
+    position: absolute;
+    width: 378px;
+    height: 35px;
+    top: 65px;
+    left: 109px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #4d759a;
+    font-size: 18.4px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.tela-de-informao .overlap-4 {
+    position: absolute;
+    width: 528px;
+    height: 319px;
+    top: 181px;
+    left: 137px;
+    background-image: url(./img/rectangle-7.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.tela-de-informao .arrow {
+    width: 34px;
+    top: 157px;
+    left: 8px;
+    position: absolute;
+    height: 29px;
+}
+
+.tela-de-informao .arrow-2 {
+    width: 35px;
+    top: 158px;
+    left: 485px;
+    position: absolute;
+    height: 29px;
+}
+
+.tela-de-informao .star {
+    width: 27px;
+    top: 548px;
+    left: 250px;
+    position: absolute;
+    height: 23px;
+}
+
+.tela-de-informao .star-2 {
+    width: 26px;
+    top: 548px;
+    left: 279px;
+    position: absolute;
+    height: 23px;
+}
+
+.tela-de-informao .star-3 {
+    width: 25px;
+    top: 549px;
+    left: 311px;
+    position: absolute;
+    height: 23px;
+}
+
+.tela-de-informao .star-4 {
+    width: 26px;
+    top: 550px;
+    left: 342px;
+    position: absolute;
+    height: 23px;
+}
+
+.tela-de-informao .star-5 {
+    width: 27px;
+    top: 550px;
+    left: 370px;
+    position: absolute;
+    height: 23px;
+}
+
+.tela-de-informao .acesse-o-site-wrapper {
+    position: absolute;
+    width: 147px;
+    height: 32px;
+    top: 516px;
+    left: 518px;
+    background-color: #17365d;
+    border-radius: 20px;
+}
+
+.tela-de-informao .acesse-o-site {
+    position: absolute;
+    width: 120px;
+    height: 16px;
+    top: 6px;
+    left: 17px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #d3e4f4;
+    font-size: 15.2px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}

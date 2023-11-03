@@ -1,0 +1,452 @@
+.recomendaes-BLUE {
+    background-color: #4d759a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.recomendaes-BLUE .overlap-wrapper {
+    background-color: #4d759a;
+    width: 1292px;
+    height: 928px;
+}
+
+.recomendaes-BLUE .overlap {
+    position: relative;
+    height: 928px;
+}
+
+.recomendaes-BLUE .overlap-group {
+    position: absolute;
+    width: 1292px;
+    height: 928px;
+    top: 0;
+    left: 0;
+}
+
+.recomendaes-BLUE .rectangle {
+    position: absolute;
+    width: 1292px;
+    height: 83px;
+    top: 0;
+    left: 0;
+    mix-blend-mode: multiply;
+}
+
+.recomendaes-BLUE .logo {
+    position: absolute;
+    width: 68px;
+    height: 50px;
+    top: 11px;
+    left: 125px;
+}
+
+.recomendaes-BLUE .cadastre-se {
+    position: absolute;
+    width: 116px;
+    top: 24px;
+    left: 1145px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.recomendaes-BLUE .perfil {
+    position: absolute;
+    width: 91px;
+    top: 24px;
+    left: 1049px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.recomendaes-BLUE .quem-somos {
+    position: absolute;
+    width: 135px;
+    top: 24px;
+    left: 912px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #d3e4f4;
+    font-size: 15.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.recomendaes-BLUE .material-symbols {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 21px;
+    left: 814px;
+}
+
+.recomendaes-BLUE .div {
+    position: absolute;
+    width: 586px;
+    height: 39px;
+    top: 17px;
+    left: 281px;
+    background-color: #ffffff;
+    border-radius: 20.19px;
+    border: 1px solid;
+    border-color: #4d759a;
+}
+
+.recomendaes-BLUE .img {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 18px;
+    left: 805px;
+}
+
+.recomendaes-BLUE .buscar-local {
+    position: absolute;
+    width: 188px;
+    top: 28px;
+    left: 281px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #838383;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.recomendaes-BLUE .rectangle-2 {
+    position: absolute;
+    width: 109px;
+    height: 846px;
+    top: 82px;
+    left: 0;
+    background-color: #17365d;
+}
+
+.recomendaes-BLUE .ep-map-location {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    top: 582px;
+    left: 34px;
+}
+
+.recomendaes-BLUE .ic-round-star {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 353px;
+    left: 29px;
+}
+
+.recomendaes-BLUE .material-symbols-2 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 464px;
+    left: 32px;
+}
+
+.recomendaes-BLUE .material-symbols-3 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 125px;
+    left: 27px;
+}
+
+.recomendaes-BLUE .mdi-phone-settings {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 700px;
+    left: 35px;
+}
+
+.recomendaes-BLUE .material-symbols-4 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 224px;
+    left: 28px;
+}
+
+.recomendaes-BLUE .text-wrapper {
+    position: absolute;
+    top: 839px;
+    left: 39px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.recomendaes-BLUE .RECOMENDA-ES-DA-wrapper {
+    position: absolute;
+    width: 1183px;
+    height: 105px;
+    top: 177px;
+    left: 109px;
+    background-color: #d3e4f4;
+}
+
+.recomendaes-BLUE .RECOMENDA-ES-DA {
+    position: absolute;
+    width: 303px;
+    top: 15px;
+    left: 862px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 400;
+    color: #4d759a;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.recomendaes-BLUE .span {
+    font-family: "Inter-ExtraBold Italic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.recomendaes-BLUE .text-wrapper-2 {
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.recomendaes-BLUE .overlap-2 {
+    position: absolute;
+    width: 300px;
+    height: 321px;
+    top: 315px;
+    left: 682px;
+    background-color: #d3e4f4;
+}
+
+.recomendaes-BLUE .element {
+    position: absolute;
+    width: 265px;
+    height: 180px;
+    top: 29px;
+    left: 19px;
+    object-fit: cover;
+}
+
+.recomendaes-BLUE .element-exposi-es-imperd {
+    position: absolute;
+    width: 265px;
+    height: 115px;
+    top: 205px;
+    left: 18px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 400;
+    color: #4d759a;
+    font-size: 26px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.recomendaes-BLUE .text-wrapper-3 {
+    font-weight: 200;
+}
+
+.recomendaes-BLUE .text-wrapper-4 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+}
+
+.recomendaes-BLUE .text-wrapper-5 {
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+}
+
+.recomendaes-BLUE .UM-RESPIRO-NA-CIDADE-wrapper {
+    position: absolute;
+    width: 578px;
+    height: 264px;
+    top: 664px;
+    left: 707px;
+    background-image: url(./img/imgrecomendacoes/parque.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.recomendaes-BLUE .UM-RESPIRO-NA-CIDADE {
+    position: absolute;
+    width: 353px;
+    height: 71px;
+    top: 32px;
+    left: 184px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.recomendaes-BLUE .text-wrapper-6 {
+    font-weight: 500;
+}
+
+.recomendaes-BLUE .text-wrapper-7 {
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+}
+
+.recomendaes-BLUE .text-wrapper-8 {
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+}
+
+.recomendaes-BLUE .overlap-3 {
+    position: absolute;
+    width: 294px;
+    height: 321px;
+    top: 315px;
+    left: 991px;
+}
+
+.recomendaes-BLUE .element-lugres {
+    width: 90px;
+    height: 22px;
+    top: 203px;
+    left: 8px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #e9cca3;
+    font-size: 20px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.recomendaes-BLUE .rectangle-3 {
+    position: absolute;
+    width: 294px;
+    height: 321px;
+    top: 0;
+    left: 0;
+    background-color: #d3e4f4;
+}
+
+.recomendaes-BLUE .os-brech-s-mais {
+    position: absolute;
+    width: 224px;
+    height: 85px;
+    top: 220px;
+    left: 36px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 400;
+    color: #4d759a;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.recomendaes-BLUE .text-wrapper-9 {
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+}
+
+.recomendaes-BLUE .image {
+    width: 232px;
+    height: 181px;
+    top: 25px;
+    left: 32px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.recomendaes-BLUE .element-restaurantes-mais-wrapper {
+    position: absolute;
+    width: 517px;
+    height: 321px;
+    top: 315px;
+    left: 145px;
+    background-image: url(./img/restaurante-foto-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.recomendaes-BLUE .element-restaurantes-mais {
+    width: 282px;
+    top: 14px;
+    left: 17px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    line-height: 32px;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.recomendaes-BLUE .text-wrapper-10 {
+    font-weight: 300;
+    line-height: 31.5px;
+}
+
+.recomendaes-BLUE .text-wrapper-11 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    line-height: 31.5px;
+}
+
+.recomendaes-BLUE .overlap-4 {
+    position: absolute;
+    width: 517px;
+    height: 277px;
+    top: 651px;
+    left: 145px;
+}
+
+.recomendaes-BLUE .image-2 {
+    width: 517px;
+    height: 264px;
+    top: 13px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.recomendaes-BLUE .UM-parque-de-divers {
+    position: absolute;
+    width: 427px;
+    height: 120px;
+    top: 0;
+    left: 17px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 400;
+    color: #4d759a;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.recomendaes-BLUE .text-wrapper-12 {
+    font-weight: 300;
+}
